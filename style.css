@@ -162,7 +162,7 @@ main.container {
 
 /* hero section style begins here */
 .container .section-hero {
-    background: rgb(21, 15, 65);
+    background: #386579;
     background: #00d4ff 100%;
     display: flex;
     align-items: center;
@@ -218,14 +218,14 @@ main.container {
 /* styles the section heading within each sections */
 .section-content .section-heading {
     font-size: 36px;
-    color: #150f41;
+    color: #386579;
     margin-bottom: 16px;
 }
 
 /* styles the section tag line within each section */
 .section-content .section-tag-line {
     font-size: 20px;
-    color: rgba(0, 0, 0, 0.74);
+    color: #386579;
 }
 
 .section-about .section-tag-line {
@@ -385,7 +385,7 @@ form button {
     width: 160px;
     margin: 0 auto;
     font-size: 18px;
-    background-color: #150f41;
+    background-color: #386579;
     color: white;
     padding: 12px;
     border: none;
@@ -401,7 +401,7 @@ form button:hover {
 
 /* style for the footer element */
 footer {
-    background-color: #150f41;
+    background-color: #386579;
     height: 40px;
     color: white;
 }
@@ -444,7 +444,7 @@ footer .heart-icon {
         width: 100%;
         height: 70vh;
         text-align: center;
-        background-color: rgb(25, 17, 83);
+        background-color:#386579;
         transition: all 1s ease;
     }
 
